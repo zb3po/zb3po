@@ -1,3 +1,9 @@
-html {
-    background-color: aqua;
+main {
+    height: 180px;
+    width: 180px;
+    border: 1px solid rgba(0, 0, 0, 0.163);
+    padding: 75px;
+}
+h1 {
+    font-family: 'Roboto' , sans-serif;
 }
