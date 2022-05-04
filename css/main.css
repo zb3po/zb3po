@@ -1,9 +1,7 @@
 main {
-    height: 180px;
-    width: 180px;
+    height: 200px;
+    width: 275px;
     border: 1px solid rgba(0, 0, 0, 0.163);
     padding: 75px;
-}
-h1 {
     font-family: 'Roboto' , sans-serif;
 }
